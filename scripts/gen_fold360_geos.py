@@ -784,9 +784,9 @@ def footer_html(geo: str, g: dict) -> str:
       <div>
         <h4 class="site-footer__heading">{g["footer_contact"]}</h4>
         <ul class="site-footer__list">
-          <li><strong>A.R.T. - FZCO</strong></li>
-          <li>Dubai Silicon Oasis, DDP, Building A1</li>
-          <li>Dubai, United Arab Emirates</li>
+          <li><strong>WHATECH MOBILE CO., LIMITED</strong></li>
+          <li>Room 505, 5th floor, Beverley Commercial Centre</li>
+          <li>87-105 Chatham Road South, Hong Kong</li>
           <li><a href="mailto:info@devicefindhub.com">info@devicefindhub.com</a></li>
         </ul>
       </div>'''
