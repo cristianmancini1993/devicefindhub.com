@@ -1,0 +1,3356 @@
+{
+  "content": [
+    {
+      "id": "6f6bbe5",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 14,
+          "right": 20,
+          "bottom": 14,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "397e0ae",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "c3f6712",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;font-family:Verdana;font-size:14px;font-weight:normal;color:#262626;margin:0;line-height:1.6;letter-spacing:0.3px;'>Promozione a tempo limitato: <b style='color:#7A4220;'>-70%</b> + set coltelli in omaggio &nbsp;·&nbsp; Spedizione gratuita &nbsp;·&nbsp; Pagamento alla consegna</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3e1732",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 18,
+          "right": 20,
+          "bottom": 18,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "aa32647",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "2bb3aa3",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>⭐⭐⭐⭐⭐ <b>4,7/5</b> — oltre 3.200 clienti soddisfatti</p>",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_weight": "normal",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": "1.7",
+                  "sizes": []
+                },
+                "color": "#7A4220"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a7e02f",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 18,
+          "right": 20,
+          "bottom": 18,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "2e190e2",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "a59431e",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "HappyFam™: Cucina Come uno Chef con Pentole Antiaderenti in Rame che Non si Graffiano",
+                "header_size": "h1",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 27,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#262626"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9bc4b96",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 18,
+          "right": 20,
+          "bottom": 18,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "125c2a7",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "a34bc0f",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Il set da 10 pezzi + bistecchiera che unisce il calore del rame professionale alla resistenza dell'acciaio inox.</p>",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_weight": "normal",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": "1.7",
+                  "sizes": []
+                },
+                "color": "#262626"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85cfe2c",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 18,
+          "right": 20,
+          "bottom": 18,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "ace5b20",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "cd05209",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 12,
+                  "right": 12,
+                  "bottom": 12,
+                  "left": 12,
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "1927ddb",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "2f6e0f5",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;margin-top:8px;'>📷 NOTA INTERNA (rimuovere prima della pubblicazione): sfondo bianco, intero set HappyFam™ (10 pezzi + bistecchiera) in composizione ordinata, rame ben visibile, accanto il set coltelli+ceppo in legno omaggio</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8296e68",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 22,
+          "right": 20,
+          "bottom": 22,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "15ce8dd",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "a1797cd",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<div style='max-width:60px;margin:0 auto;border-top:2px solid #A65A2E;'></div>"
+              },
+              "elements": []
+            },
+            {
+              "id": "f8b7871",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "12b5e9a",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<div style='max-width:520px;margin:0 auto;text-align:center;border-top:1px solid #E4E0DB;border-bottom:1px solid #E4E0DB;padding:16px 8px;'><p style='font-family:Verdana;font-size:14px;color:#262626;line-height:2;margin:0;letter-spacing:0.2px;'>Disponibilità limitata &nbsp;·&nbsp; Spedizione gratuita<br>Consegna in 24-48h &nbsp;·&nbsp; Pagamento alla consegna &nbsp;·&nbsp; Garanzia 2 anni</p></div>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9543f4e",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 36,
+          "right": 20,
+          "bottom": 36,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "52d53cb",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "d0889f0",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "Perché HappyFam™ è diverso",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#262626"
+              },
+              "elements": []
+            },
+            {
+              "id": "2fea13b",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 24,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "474dec6",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<ul style='list-style:none;padding-left:0;text-align:left;max-width:500px;margin:0 auto;font-family:Verdana;font-size:17px;color:#262626;line-height:1.65;'><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span><b>Esterno in rame spesso</b>: la stessa conduzione del calore usata dagli chef professionisti, cottura uniforme senza punti che bruciano</li><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span><b>Interno in acciaio inox antiaderente</b>: il cibo non si attacca mai, anche con pochissimo olio</li><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span><b>Resistente ai graffi</b>: superficie che non si rovina con posate, spugne o uso quotidiano intenso</li><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span><b>10 pezzi + bistecchiera coordinata</b>: coprono ogni esigenza di cottura</li><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span><b>Manici in acciaio inox robusti</b>: presa salda e sicura, non si scaldano</li><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span><b>Compatibile con ogni piano cottura</b>, incluso induzione</li><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span><b>Lavabile in lavastoviglie</b>: nessuna manutenzione complicata</li></ul>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "902c0fd",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "border_border": "solid",
+        "border_width": {
+          "unit": "px",
+          "top": 1,
+          "right": 1,
+          "bottom": 1,
+          "left": 1,
+          "isLinked": true
+        },
+        "border_color": "#E4E0DB",
+        "border_radius": {
+          "unit": "px",
+          "top": 10,
+          "right": 10,
+          "bottom": 10,
+          "left": 10,
+          "isLinked": true
+        },
+        "box_shadow_box_shadow": {
+          "horizontal": 0,
+          "vertical": 4,
+          "blur": 18,
+          "spread": 0,
+          "color": "rgba(38,38,38,0.10)"
+        },
+        "padding": {
+          "unit": "px",
+          "top": 32,
+          "right": 20,
+          "bottom": 32,
+          "left": 20,
+          "isLinked": false
+        },
+        "margin": {
+          "unit": "px",
+          "top": 24,
+          "right": 12,
+          "bottom": 24,
+          "left": 12,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "5eb054d",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "0303d1e",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "Prenota il tuo set prima che finisca la promozione",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#7A4220"
+              },
+              "elements": []
+            },
+            {
+              "id": "e407be1",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;'>⚙️ NOTA INTERNA: configurare backend form con LINK REDIRECT verso Thank You Page + parametri ID OFFERTA / OFFER / LP / SUBID / FINGERPRINT / WEBHOOK. Il campo nascosto 'subid' viene compilato automaticamente dallo script (legge subid, fallback utm_campaign, dalla query string).</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "66b5dc1",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "7a588a9",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "form",
+              "settings": {
+                "form_name": "HappyFam Order Form",
+                "form_fields": [
+                  {
+                    "custom_id": "nome_cognome",
+                    "field_label": "Nome e Cognome",
+                    "placeholder": "Es. Maria Rossi",
+                    "field_type": "text",
+                    "required": "true",
+                    "width": "100"
+                  },
+                  {
+                    "custom_id": "indirizzo",
+                    "field_label": "Indirizzo completo",
+                    "placeholder": "Es. Via Roma 12, Milano",
+                    "field_type": "text",
+                    "required": "true",
+                    "width": "100"
+                  },
+                  {
+                    "custom_id": "telefono",
+                    "field_label": "Telefono",
+                    "placeholder": "Es. 333 1234567",
+                    "field_type": "tel",
+                    "required": "true",
+                    "width": "100"
+                  },
+                  {
+                    "custom_id": "subid",
+                    "field_label": "subid",
+                    "field_type": "hidden",
+                    "width": "100"
+                  }
+                ],
+                "button_text": "COMPLETA L'ORDINE",
+                "button_size": "xl",
+                "button_align": "center",
+                "field_typography_typography": "custom",
+                "field_typography_font_family": "Verdana",
+                "field_typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "input_size": {
+                  "unit": "px",
+                  "size": 50,
+                  "sizes": []
+                },
+                "rows_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "label_typography_typography": "custom",
+                "label_typography_font_family": "Verdana",
+                "label_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "label_typography_font_weight": "bold",
+                "label_color": "#262626",
+                "field_border_radius": {
+                  "unit": "px",
+                  "top": 10,
+                  "right": 10,
+                  "bottom": 10,
+                  "left": 10,
+                  "isLinked": true
+                },
+                "field_border_width": {
+                  "unit": "px",
+                  "top": 2,
+                  "right": 2,
+                  "bottom": 2,
+                  "left": 2,
+                  "isLinked": true
+                },
+                "field_border_color": "#A65A2E",
+                "button_typography_typography": "custom",
+                "button_typography_font_family": "Verdana",
+                "button_typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "button_typography_font_weight": "bold",
+                "button_background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "button_border_radius": {
+                  "unit": "px",
+                  "top": 50,
+                  "right": 50,
+                  "bottom": 50,
+                  "left": 50,
+                  "isLinked": true
+                },
+                "button_padding": {
+                  "unit": "px",
+                  "top": 16,
+                  "right": 30,
+                  "bottom": 16,
+                  "left": 30,
+                  "isLinked": false
+                },
+                "email_to": "[EMAIL NOTIFICHE ORDINE]",
+                "redirect_to": "[LINK REDIRECT THANK YOU PAGE]"
+              },
+              "elements": []
+            },
+            {
+              "id": "13fc614",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<script>\n(function(){\n  function getParam(name){\n    var m = new RegExp('[?&]'+name+'=([^&]*)').exec(window.location.search);\n    return m ? decodeURIComponent(m[1].replace(/\\+/g,' ')) : null;\n  }\n  var subid = getParam('subid') || getParam('utm_campaign') || '';\n  document.querySelectorAll('input[name=\"form_fields[subid]\"], input[name=\"subid\"]').forEach(function(el){\n    el.value = subid;\n  });\n})();\n</script>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ed75bc",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "12ceb32",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "2b007db",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "button",
+              "settings": {
+                "text": "Sì, voglio il mio HappyFam™ a 89€",
+                "align": "center",
+                "size": "md",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 6,
+                  "right": 6,
+                  "bottom": 6,
+                  "left": 6,
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 2,
+                  "blur": 8,
+                  "spread": 0,
+                  "color": "rgba(122,66,32,0.25)"
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 15,
+                  "right": 28,
+                  "bottom": 15,
+                  "left": 28,
+                  "isLinked": false
+                },
+                "hover_animation": null
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9492663",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "88d4bf2",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "185c52c",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<div style='background:#FFFFFF;border:1px solid #E4E0DB;border-radius:8px;padding:24px;max-width:540px;margin:0 auto;font-family:Verdana;box-shadow:0 2px 12px rgba(38,38,38,0.07);'>\n    <p style='font-size:15px;color:#262626;line-height:1.75;font-style:italic;'>\"Cucino ogni giorno per una famiglia di 5 persone e finora avevo sempre pentole che si graffiavano dopo pochi mesi, con il cibo che si attaccava sul fondo. Con HappyFam™ è tutta un'altra storia: il rame scalda in modo uniforme, niente si brucia, e dopo mesi di uso quotidiano le pentole sono ancora perfette come il primo giorno. Ero scettica sul prezzo così basso, invece mi sono ricreduta completamente.\"</p>\n    <p style='font-size:15px;font-weight:bold;color:#7A4220;margin-top:14px;margin-bottom:0;'>Federica M., Torino &nbsp;·&nbsp; ⭐⭐⭐⭐⭐</p>\n    </div>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a212a2",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "4e780a1",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "6d3d169",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 12,
+                  "right": 12,
+                  "bottom": 12,
+                  "left": 12,
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "fa9e6d3",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "754bd96",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;margin-top:8px;'>📷 NOTA INTERNA (rimuovere prima della pubblicazione): foto recensione cliente: Federica in cucina, sorridente, padella HappyFam™ con cibo che scivola senza attaccarsi</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f12ab93",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "3c65730",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "9bb5688",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "button",
+              "settings": {
+                "text": "Sì, voglio il mio HappyFam™ a 89€",
+                "align": "center",
+                "size": "md",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 6,
+                  "right": 6,
+                  "bottom": 6,
+                  "left": 6,
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 2,
+                  "blur": 8,
+                  "spread": 0,
+                  "color": "rgba(122,66,32,0.25)"
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 15,
+                  "right": 28,
+                  "bottom": 15,
+                  "left": 28,
+                  "isLinked": false
+                },
+                "hover_animation": null
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "479e024",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 30,
+          "right": 20,
+          "bottom": 30,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "f7c16f7",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "d89c748",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "Il segreto delle cucine professionali, ora nella tua",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#262626"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07bc89a",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 30,
+          "right": 20,
+          "bottom": 30,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "f43d985",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "1478fbf",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "Rame spesso esterno per un controllo del calore da chef",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#7A4220"
+              },
+              "elements": []
+            },
+            {
+              "id": "411c7b6",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "4b229f3",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Il rame è il materiale che i grandi ristoranti usano da sempre perché distribuisce il calore in modo rapido e uniforme su tutta la superficie. Ogni piatto cuoce in modo omogeneo: niente più zone che bruciano mentre il centro è ancora crudo. <b>Ciò che questo significa per te</b> è poter cucinare come uno chef, senza bruciare la cena.</p>",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "normal",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": "1.7",
+                  "sizes": []
+                },
+                "color": "#262626"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "defb937",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "71c7e9e",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "3205ee9",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 12,
+                  "right": 12,
+                  "bottom": 12,
+                  "left": 12,
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "3c20585",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "d9bd254",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;margin-top:8px;'>📷 NOTA INTERNA (rimuovere prima della pubblicazione): primo piano padella HappyFam™ sul fuoco, calore distribuito uniformemente sul fondo rame</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b41e8ff",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "ca14019",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "532f63e",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "button",
+              "settings": {
+                "text": "Sì, voglio il mio HappyFam™ a 89€",
+                "align": "center",
+                "size": "md",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 6,
+                  "right": 6,
+                  "bottom": 6,
+                  "left": 6,
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 2,
+                  "blur": 8,
+                  "spread": 0,
+                  "color": "rgba(122,66,32,0.25)"
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 15,
+                  "right": 28,
+                  "bottom": 15,
+                  "left": 28,
+                  "isLinked": false
+                },
+                "hover_animation": null
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e7ffe8",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 30,
+          "right": 20,
+          "bottom": 30,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "d3b9bbd",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "2c577d9",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "Interno in acciaio inox antiaderente e resistente ai graffi",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#7A4220"
+              },
+              "elements": []
+            },
+            {
+              "id": "a3cd568",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "6aa5cd5",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>A differenza delle pentole economiche che si rovinano dopo poche lavate, l'acciaio inox di HappyFam™ resiste a posate e spugnette abrasive senza perdere le proprietà antiaderenti. <b>Ciò che questo significa per te</b> è non dover ricomprare pentole ogni anno: un investimento che dura.</p>",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "normal",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": "1.7",
+                  "sizes": []
+                },
+                "color": "#262626"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "729279b",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "e19c690",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "c599e87",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 12,
+                  "right": 12,
+                  "bottom": 12,
+                  "left": 12,
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "9bcccba",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "f7ed1b9",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;margin-top:8px;'>📷 NOTA INTERNA (rimuovere prima della pubblicazione): confronto: padella vecchia graffiata/opaca vs padella HappyFam™ lucida dopo mesi d'uso</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d8b7c2",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "1aeb97e",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "d3fd2e1",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "button",
+              "settings": {
+                "text": "Sì, voglio il mio HappyFam™ a 89€",
+                "align": "center",
+                "size": "md",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 6,
+                  "right": 6,
+                  "bottom": 6,
+                  "left": 6,
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 2,
+                  "blur": 8,
+                  "spread": 0,
+                  "color": "rgba(122,66,32,0.25)"
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 15,
+                  "right": 28,
+                  "bottom": 15,
+                  "left": 28,
+                  "isLinked": false
+                },
+                "hover_animation": null
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76fe4a1",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 30,
+          "right": 20,
+          "bottom": 30,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "555b0dc",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "507342f",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "Un set completo per tutta la famiglia, con coltelli in omaggio",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#7A4220"
+              },
+              "elements": []
+            },
+            {
+              "id": "7d9b895",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "65f3149",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>10 pezzi tra pentole e padelle di ogni dimensione, più la bistecchiera coordinata: hai tutto ciò che serve, senza pezzi mancanti. In regalo ricevi anche un set di 4 coltelli con portacoltelli in legno. <b>Ciò che questo significa per te</b> è una cucina pronta dal primo giorno, senza spendere altro.</p>",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "normal",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": "1.7",
+                  "sizes": []
+                },
+                "color": "#262626"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "006ce35",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "2c72387",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "cd1be88",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 12,
+                  "right": 12,
+                  "bottom": 12,
+                  "left": 12,
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "7fc072c",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "1b73204",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;margin-top:8px;'>📷 NOTA INTERNA (rimuovere prima della pubblicazione): flat lay sfondo bianco: intero set 10 pezzi + bistecchiera + 4 coltelli + ceppo legno</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1588143",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "b7f0499",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "f861491",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "button",
+              "settings": {
+                "text": "Sì, voglio il mio HappyFam™ a 89€",
+                "align": "center",
+                "size": "md",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 6,
+                  "right": 6,
+                  "bottom": 6,
+                  "left": 6,
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 2,
+                  "blur": 8,
+                  "spread": 0,
+                  "color": "rgba(122,66,32,0.25)"
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 15,
+                  "right": 28,
+                  "bottom": 15,
+                  "left": 28,
+                  "isLinked": false
+                },
+                "hover_animation": null
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "739ae15",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "2604c70",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "691cbe9",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "HappyFam™ vs pentole economiche generiche",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#262626"
+              },
+              "elements": []
+            },
+            {
+              "id": "66c7e01",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "33b9401",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "\n    <table style='width:100%;max-width:520px;margin:0 auto;border-collapse:collapse;font-family:Verdana;font-size:15px;'>\n      <tr style='background:#A65A2E;color:#FFFFFF;'><th style='padding:14px;text-align:left;font-weight:normal;'>Pentole economiche</th><th style='padding:14px;text-align:left;font-weight:bold;'>HappyFam™</th></tr>\n      <tr style='background:#FFFFFF;'><td style='padding:14px;border-bottom:1px solid #FAF7F4;'>Alluminio sottile, calore irregolare</td><td style='padding:14px;border-bottom:1px solid #FAF7F4;'>Rame spesso, calore uniforme da chef</td></tr>\n      <tr style='background:#FAF7F4;'><td style='padding:14px;border-bottom:1px solid #FFFFFF;'>Si graffiano dopo poche lavate</td><td style='padding:14px;border-bottom:1px solid #FFFFFF;'>Resistente ai graffi anche con uso intenso</td></tr>\n      <tr style='background:#FFFFFF;'><td style='padding:14px;border-bottom:1px solid #FAF7F4;'>Il cibo si attacca dopo qualche mese</td><td style='padding:14px;border-bottom:1px solid #FAF7F4;'>Antiaderenza che dura nel tempo</td></tr>\n      <tr style='background:#FAF7F4;'><td style='padding:14px;'>Set incompleto</td><td style='padding:14px;'>10 pezzi + bistecchiera, tutto incluso</td></tr>\n      <tr style='background:#FFFFFF;'><td style='padding:14px;'>Nessun omaggio</td><td style='padding:14px;'>Set 4 coltelli + ceppo in legno in regalo</td></tr>\n    </table>\n    "
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a72de2",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "ca02019",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "4480721",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "button",
+              "settings": {
+                "text": "Sì, voglio il mio HappyFam™ a 89€",
+                "align": "center",
+                "size": "md",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 6,
+                  "right": 6,
+                  "bottom": 6,
+                  "left": 6,
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 2,
+                  "blur": 8,
+                  "spread": 0,
+                  "color": "rgba(122,66,32,0.25)"
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 15,
+                  "right": 28,
+                  "bottom": 15,
+                  "left": 28,
+                  "isLinked": false
+                },
+                "hover_animation": null
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07c5646",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 26,
+          "right": 20,
+          "bottom": 26,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "b311200",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "e3fe7a3",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<div style='max-width:60px;margin:0 auto;border-top:2px solid #A65A2E;'></div>"
+              },
+              "elements": []
+            },
+            {
+              "id": "3261d29",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "6b07e76",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;font-family:Verdana;line-height:1.8;'><span style='font-size:19px;color:#9A9A9A;text-decoration:line-through;'>299€</span> &nbsp;→&nbsp; <span style='font-size:32px;font-weight:bold;color:#A65A2E;'>89€</span><br><span style='font-size:15px;color:#7A4220;'>(-70%) — Spedizione Gratuita Inclusa</span></p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "254c655",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "588abfd",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "865050d",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "button",
+              "settings": {
+                "text": "Sì, voglio il mio HappyFam™ a 89€",
+                "align": "center",
+                "size": "md",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 6,
+                  "right": 6,
+                  "bottom": 6,
+                  "left": 6,
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 2,
+                  "blur": 8,
+                  "spread": 0,
+                  "color": "rgba(122,66,32,0.25)"
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 15,
+                  "right": 28,
+                  "bottom": 15,
+                  "left": 28,
+                  "isLinked": false
+                },
+                "hover_animation": null
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f91574a",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 30,
+          "right": 20,
+          "bottom": 30,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "3ff0ba2",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "c8894a3",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "Cosa dicono le famiglie che hanno già scelto HappyFam™",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#262626"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5339e4",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "ddb29e9",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "b82f4dc",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<div style='background:#FFFFFF;border:1px solid #E4E0DB;border-radius:8px;padding:24px;max-width:540px;margin:0 auto;font-family:Verdana;box-shadow:0 2px 12px rgba(38,38,38,0.07);'>\n    <p style='font-size:15px;color:#262626;line-height:1.75;font-style:italic;'>\"Non avrei mai pensato che il rame facesse così tanta differenza. Cucino la pasta al sugo quasi ogni giorno e prima si attaccava sempre sul fondo. Ora scivola via che è un piacere.\"</p>\n    <p style='font-size:15px;font-weight:bold;color:#7A4220;margin-top:14px;margin-bottom:0;'>Marco R., Milano &nbsp;·&nbsp; ⭐⭐⭐⭐⭐</p>\n    </div>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04c2e15",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "24ed15d",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "d15b52c",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 12,
+                  "right": 12,
+                  "bottom": 12,
+                  "left": 12,
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "40b2263",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "4c3a1ae",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;margin-top:8px;'>📷 NOTA INTERNA (rimuovere prima della pubblicazione): foto cliente reale: Marco in cucina con una pentola HappyFam™</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "60764ff",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "93f2b4b",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "be44dff",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<div style='background:#FFFFFF;border:1px solid #E4E0DB;border-radius:8px;padding:24px;max-width:540px;margin:0 auto;font-family:Verdana;box-shadow:0 2px 12px rgba(38,38,38,0.07);'>\n    <p style='font-size:15px;color:#262626;line-height:1.75;font-style:italic;'>\"Ero abituata a cambiare pentole ogni anno perché si graffiavano subito. Sono passati 4 mesi e queste sembrano ancora nuove. Il set è completo, uso praticamente tutti i pezzi.\"</p>\n    <p style='font-size:15px;font-weight:bold;color:#7A4220;margin-top:14px;margin-bottom:0;'>Chiara B., Bologna &nbsp;·&nbsp; ⭐⭐⭐⭐</p>\n    </div>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e242f0c",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "e958258",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "3859980",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 12,
+                  "right": 12,
+                  "bottom": 12,
+                  "left": 12,
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "5c4ccc8",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "597dde6",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;margin-top:8px;'>📷 NOTA INTERNA (rimuovere prima della pubblicazione): Chiara che estrae le pentole dalla confezione, sfondo cucina domestica</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc4311d",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "890c183",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "18ef08a",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<div style='background:#FFFFFF;border:1px solid #E4E0DB;border-radius:8px;padding:24px;max-width:540px;margin:0 auto;font-family:Verdana;box-shadow:0 2px 12px rgba(38,38,38,0.07);'>\n    <p style='font-size:15px;color:#262626;line-height:1.75;font-style:italic;'>\"I coltelli in omaggio sono una sorpresa bellissima, taglienti e con un ceppo che sta benissimo sul piano cucina. Il set pentole poi è fantastico, il rame scalda benissimo.\"</p>\n    <p style='font-size:15px;font-weight:bold;color:#7A4220;margin-top:14px;margin-bottom:0;'>Antonio D., Napoli &nbsp;·&nbsp; ⭐⭐⭐⭐⭐</p>\n    </div>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a094b1",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "b026ec7",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "2d6dc06",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 12,
+                  "right": 12,
+                  "bottom": 12,
+                  "left": 12,
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "b7fde44",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "7771447",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;margin-top:8px;'>📷 NOTA INTERNA (rimuovere prima della pubblicazione): primo piano dei 4 coltelli nel portacoltelli in legno, accanto una padella HappyFam™</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e14eb84",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "46d1bbd",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "78deb45",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "button",
+              "settings": {
+                "text": "Sì, voglio il mio HappyFam™ a 89€",
+                "align": "center",
+                "size": "md",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 6,
+                  "right": 6,
+                  "bottom": 6,
+                  "left": 6,
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 2,
+                  "blur": 8,
+                  "spread": 0,
+                  "color": "rgba(122,66,32,0.25)"
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 15,
+                  "right": 28,
+                  "bottom": 15,
+                  "left": 28,
+                  "isLinked": false
+                },
+                "hover_animation": null
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9e6a538",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 30,
+          "right": 20,
+          "bottom": 30,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "e007c91",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "cf863d6",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "Ecco esattamente cosa riceverai a casa",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#262626"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e51398c",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "e25ac84",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "e726c41",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 12,
+                  "right": 12,
+                  "bottom": 12,
+                  "left": 12,
+                  "isLinked": true
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "ba283ad",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "f355d13",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;margin-top:8px;'>📷 NOTA INTERNA (rimuovere prima della pubblicazione): sfondo bianco, tutti i pezzi del pacco disposti in ordine numerato: 10 pentole/padelle, bistecchiera, 4 coltelli, portacoltelli in legno</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76b0719",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 30,
+          "right": 20,
+          "bottom": 30,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "fabce7a",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "edfd843",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<ul style='list-style:none;padding-left:0;text-align:left;max-width:500px;margin:0 auto;font-family:Verdana;font-size:17px;color:#262626;line-height:1.65;'><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span>Set 10 pezzi pentole e padelle HappyFam™ (rame + acciaio inox) — valore <b>249€</b></li><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span>Bistecchiera/piastra coordinata — valore <b>39€</b></li><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span>Set 4 coltelli da cucina — valore <b>29€</b></li><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span>Portacoltelli in legno — valore <b>19€</b></li><li style='margin-bottom:18px;padding-left:28px;position:relative;'><span style='position:absolute;left:0;top:0;color:#A65A2E;font-weight:bold;font-size:17px;'>&#10003;</span>Spedizione Gratuita — valore <b>9€</b></li></ul>"
+              },
+              "elements": []
+            },
+            {
+              "id": "0e5577b",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 24,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "511cebf",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;font-family:Verdana;font-size:18px;font-weight:bold;color:#7A4220;line-height:1.8;'>Valore totale: <span style='text-decoration:line-through;color:#9A9A9A;'>345€</span><br>Tu paghi solo: <span style='color:#A65A2E;'>89€</span></p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af07286",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 20,
+          "right": 20,
+          "bottom": 20,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "d6e0e70",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "19c3a3a",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "button",
+              "settings": {
+                "text": "Sì, voglio il mio HappyFam™ a 89€",
+                "align": "center",
+                "size": "md",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 6,
+                  "right": 6,
+                  "bottom": 6,
+                  "left": 6,
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 2,
+                  "blur": 8,
+                  "spread": 0,
+                  "color": "rgba(122,66,32,0.25)"
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 15,
+                  "right": 28,
+                  "bottom": 15,
+                  "left": 28,
+                  "isLinked": false
+                },
+                "hover_animation": null
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9d8b9ff",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "border_border": "solid",
+        "border_width": {
+          "unit": "px",
+          "top": 1,
+          "right": 1,
+          "bottom": 1,
+          "left": 1,
+          "isLinked": true
+        },
+        "border_color": "#E4E0DB",
+        "border_radius": {
+          "unit": "px",
+          "top": 10,
+          "right": 10,
+          "bottom": 10,
+          "left": 10,
+          "isLinked": true
+        },
+        "box_shadow_box_shadow": {
+          "horizontal": 0,
+          "vertical": 4,
+          "blur": 18,
+          "spread": 0,
+          "color": "rgba(38,38,38,0.10)"
+        },
+        "padding": {
+          "unit": "px",
+          "top": 32,
+          "right": 20,
+          "bottom": 32,
+          "left": 20,
+          "isLinked": false
+        },
+        "margin": {
+          "unit": "px",
+          "top": 24,
+          "right": 12,
+          "bottom": 24,
+          "left": 12,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "bfbe12e",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "7500e9d",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "Completa il tuo ordine HappyFam™",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#7A4220"
+              },
+              "elements": []
+            },
+            {
+              "id": "f847d7a",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<p style='text-align:center;color:#9A9A9A;font-family:Verdana;font-size:12px;font-style:italic;'>⚙️ NOTA INTERNA: configurare backend form con LINK REDIRECT verso Thank You Page + parametri ID OFFERTA / OFFER / LP / SUBID / FINGERPRINT / WEBHOOK. Il campo nascosto 'subid' viene compilato automaticamente dallo script (legge subid, fallback utm_campaign, dalla query string).</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "ecee884",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "226bbc0",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "form",
+              "settings": {
+                "form_name": "HappyFam Order Form",
+                "form_fields": [
+                  {
+                    "custom_id": "nome_cognome",
+                    "field_label": "Nome e Cognome",
+                    "placeholder": "Es. Maria Rossi",
+                    "field_type": "text",
+                    "required": "true",
+                    "width": "100"
+                  },
+                  {
+                    "custom_id": "indirizzo",
+                    "field_label": "Indirizzo completo",
+                    "placeholder": "Es. Via Roma 12, Milano",
+                    "field_type": "text",
+                    "required": "true",
+                    "width": "100"
+                  },
+                  {
+                    "custom_id": "telefono",
+                    "field_label": "Telefono",
+                    "placeholder": "Es. 333 1234567",
+                    "field_type": "tel",
+                    "required": "true",
+                    "width": "100"
+                  },
+                  {
+                    "custom_id": "subid",
+                    "field_label": "subid",
+                    "field_type": "hidden",
+                    "width": "100"
+                  }
+                ],
+                "button_text": "COMPLETA L'ORDINE",
+                "button_size": "xl",
+                "button_align": "center",
+                "field_typography_typography": "custom",
+                "field_typography_font_family": "Verdana",
+                "field_typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "input_size": {
+                  "unit": "px",
+                  "size": 50,
+                  "sizes": []
+                },
+                "rows_space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "label_typography_typography": "custom",
+                "label_typography_font_family": "Verdana",
+                "label_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "label_typography_font_weight": "bold",
+                "label_color": "#262626",
+                "field_border_radius": {
+                  "unit": "px",
+                  "top": 10,
+                  "right": 10,
+                  "bottom": 10,
+                  "left": 10,
+                  "isLinked": true
+                },
+                "field_border_width": {
+                  "unit": "px",
+                  "top": 2,
+                  "right": 2,
+                  "bottom": 2,
+                  "left": 2,
+                  "isLinked": true
+                },
+                "field_border_color": "#A65A2E",
+                "button_typography_typography": "custom",
+                "button_typography_font_family": "Verdana",
+                "button_typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "button_typography_font_weight": "bold",
+                "button_background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "button_border_radius": {
+                  "unit": "px",
+                  "top": 50,
+                  "right": 50,
+                  "bottom": 50,
+                  "left": 50,
+                  "isLinked": true
+                },
+                "button_padding": {
+                  "unit": "px",
+                  "top": 16,
+                  "right": 30,
+                  "bottom": 16,
+                  "left": 30,
+                  "isLinked": false
+                },
+                "email_to": "[EMAIL NOTIFICHE ORDINE]",
+                "redirect_to": "[LINK REDIRECT THANK YOU PAGE]"
+              },
+              "elements": []
+            },
+            {
+              "id": "52bea9d",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<script>\n(function(){\n  function getParam(name){\n    var m = new RegExp('[?&]'+name+'=([^&]*)').exec(window.location.search);\n    return m ? decodeURIComponent(m[1].replace(/\\+/g,' ')) : null;\n  }\n  var subid = getParam('subid') || getParam('utm_campaign') || '';\n  document.querySelectorAll('input[name=\"form_fields[subid]\"], input[name=\"subid\"]').forEach(function(el){\n    el.value = subid;\n  });\n})();\n</script>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4d6e9cd",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAF7F4",
+        "padding": {
+          "unit": "px",
+          "top": 25,
+          "right": 20,
+          "bottom": 25,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "52f3c8f",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "0aa3a88",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<div style='max-width:60px;margin:0 auto;border-top:2px solid #A65A2E;'></div>"
+              },
+              "elements": []
+            },
+            {
+              "id": "dde2372",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "b41bd8c",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "html",
+              "settings": {
+                "html": "<div style='max-width:520px;margin:0 auto;text-align:center;border-top:1px solid #E4E0DB;border-bottom:1px solid #E4E0DB;padding:16px 8px;'><p style='font-family:Verdana;font-size:14px;color:#262626;line-height:2;margin:0;letter-spacing:0.2px;'>Spedizione gratuita &nbsp;·&nbsp; Consegna 24-48h &nbsp;·&nbsp; Pagamento alla consegna &nbsp;·&nbsp; Garanzia 2 anni &nbsp;·&nbsp; Reso gratuito 60 giorni</p></div>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1179c90",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "boxed",
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": 36,
+          "right": 20,
+          "bottom": 36,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "f209075",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "a4d991e",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "heading",
+              "settings": {
+                "title": "Domande Frequenti",
+                "header_size": "h2",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                },
+                "title_color": "#262626"
+              },
+              "elements": []
+            },
+            {
+              "id": "c64a33a",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 24,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "d9ef5b1",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "accordion",
+              "settings": {
+                "tabs": [
+                  {
+                    "_id": "d4e5681",
+                    "tab_title": "Le pentole HappyFam™ sono adatte a tutti i piani cottura, anche induzione?",
+                    "tab_content": "<p style='font-family:Verdana;font-size:16px;color:#262626;line-height:1.7;margin:0;'>Sì, il set è compatibile con gas, elettrico, vetroceramica e induzione.</p>"
+                  },
+                  {
+                    "_id": "5e135d9",
+                    "tab_title": "Il rivestimento antiaderente si graffia con le posate normali?",
+                    "tab_content": "<p style='font-family:Verdana;font-size:16px;color:#262626;line-height:1.7;margin:0;'>No, l'interno in acciaio inox è progettato per resistere a posate e spugnette senza rovinarsi nel tempo.</p>"
+                  },
+                  {
+                    "_id": "e7d238a",
+                    "tab_title": "Posso lavare le pentole in lavastoviglie?",
+                    "tab_content": "<p style='font-family:Verdana;font-size:16px;color:#262626;line-height:1.7;margin:0;'>Sì, tutto il set HappyFam™ è lavabile in lavastoviglie.</p>"
+                  },
+                  {
+                    "_id": "ef07d4c",
+                    "tab_title": "Cosa succede se non sono soddisfatto?",
+                    "tab_content": "<p style='font-family:Verdana;font-size:16px;color:#262626;line-height:1.7;margin:0;'>Hai 60 giorni per restituire il prodotto e ricevere un rimborso completo, nessuna domanda.</p>"
+                  },
+                  {
+                    "_id": "9580721",
+                    "tab_title": "Posso pagare alla consegna?",
+                    "tab_content": "<p style='font-family:Verdana;font-size:16px;color:#262626;line-height:1.7;margin:0;'>Certo, non serve carta di credito: paghi in contanti direttamente al corriere quando ricevi il pacco.</p>"
+                  },
+                  {
+                    "_id": "04ad8c5",
+                    "tab_title": "Riceverò davvero i coltelli in omaggio?",
+                    "tab_content": "<p style='font-family:Verdana;font-size:16px;color:#262626;line-height:1.7;margin:0;'>Sì, ogni ordine include il set di 4 coltelli e il portacoltelli in legno, senza costi aggiuntivi.</p>"
+                  },
+                  {
+                    "_id": "c33ae0e",
+                    "tab_title": "Come faccio a ordinare il mio HappyFam™?",
+                    "tab_content": "<p style='font-family:Verdana;font-size:16px;color:#262626;line-height:1.7;margin:0;'>Compila il modulo qui sopra. Ti chiameremo entro 24h per confermare l'ordine, poi riceverai il pacco in 24-48h e pagherai al corriere.</p>"
+                  }
+                ],
+                "faq_schema": "yes",
+                "title_html_tag": "h3",
+                "tab_active_icon": {
+                  "value": "fas fa-angle-down",
+                  "library": "fa-solid"
+                },
+                "icon": {
+                  "value": "fas fa-angle-right",
+                  "library": "fa-solid"
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Verdana",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "title_typography_font_weight": "bold",
+                "title_color": "#7A4220",
+                "title_active_color": "#A65A2E",
+                "content_typography_typography": "custom",
+                "content_typography_font_family": "Verdana",
+                "content_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "border_width": {
+                  "unit": "px",
+                  "size": 1,
+                  "sizes": []
+                },
+                "border_color": "#EADFD3",
+                "space_between": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "b8641dc",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 24,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "c64c6ae",
+              "elType": "widget",
+              "isInner": false,
+              "widgetType": "button",
+              "settings": {
+                "text": "Sì, voglio il mio HappyFam™ a 89€",
+                "align": "center",
+                "size": "md",
+                "typography_typography": "custom",
+                "typography_font_family": "Verdana",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "bold",
+                "background_color": "#A65A2E",
+                "button_text_color": "#FFFFFF",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 6,
+                  "right": 6,
+                  "bottom": 6,
+                  "left": 6,
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 2,
+                  "blur": 8,
+                  "spread": 0,
+                  "color": "rgba(122,66,32,0.25)"
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 15,
+                  "right": 28,
+                  "bottom": 15,
+                  "left": 28,
+                  "isLinked": false
+                },
+                "hover_animation": null
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "background_background": "classic",
+    "background_color": "#FFFFFF"
+  },
+  "version": "0.4",
+  "title": "HappyFam - Landing Lungo",
+  "type": "page"
+}
