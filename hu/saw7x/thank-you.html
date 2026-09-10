@@ -178,23 +178,13 @@ window.SITE_CONFIG = {
     el.textContent = String(new Date().getFullYear());
   });
 </script>
-<!-- Event snippet for Pixel 995 devicefindhub - Civo conversion page -->
+<!-- Event snippet for Purchase conversion page -->
 <script>
-  (function () {
-    var p = new URLSearchParams(window.location.search);
-    function stored(name) {
-      try { return window.localStorage.getItem('df_' + name) || ''; }
-      catch (e) { return ''; }
-    }
-    var subid = p.get('subid') || p.get('campaign_id') || stored('subid') || stored('campaign_id') || '';
-    var transactionId = p.get('order_id') || p.get('transaction_id') || p.get('tid') || subid || '';
-    gtag('event', 'conversion', {
-      'send_to': 'AW-18376580748/K45WCPGxpescEIy90bpE',
-      'value': 13,
-      'currency': 'USD',
-      'transaction_id': transactionId
-    });
-  })();
+  gtag('event', 'conversion', {
+      'send_to': 'AW-18437776204/Hu2YCIabl_IcEMzG6NdE',
+      'transaction_id': ''
+      // 'new_customer': true /* calculate dynamically, populate with true/false */,
+  });
 </script>
 </body>
 </html>
