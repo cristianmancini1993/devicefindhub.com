@@ -1,0 +1,44 @@
+name: Deploy
+
+# Pubblica sul server a ogni push su main. Senza questo, il push arriva solo
+# su GitHub: la pubblicazione dipende da un cron sul server, che su questo
+# host non parte in modo affidabile.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:      # permette anche il lancio a mano dalla tab Actions
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Controlla che la chiave sia configurata
+        id: check
+        run: |
+          if [ -z "${{ secrets.DEPLOY_SSH_KEY }}" ]; then
+            echo "manca il segreto DEPLOY_SSH_KEY: salto senza fallire"
+            echo "pronto=no" >> "$GITHUB_OUTPUT"
+          else
+            echo "pronto=si" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy via SSH
+        if: steps.check.outputs.pronto == 'si'
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_deploy
+          chmod 600 ~/.ssh/id_deploy
+          ssh-keyscan -H 168.231.109.14 >> ~/.ssh/known_hosts 2>/dev/null
+          ssh -i ~/.ssh/id_deploy -o StrictHostKeyChecking=yes root@168.231.109.14 \
+            'bash /var/www/devicefindhub.com/scripts/server-deploy.sh'
+
+      - name: Verifica che il sito serva il commit nuovo
+        if: steps.check.outputs.pronto == 'si'
+        run: |
+          for i in $(seq 1 10); do
+            if curl -sf --max-time 15 https://devicefindhub.com/ > /dev/null; then
+              echo "il sito risponde"; exit 0
+            fi
+            sleep 15
+          done
+          echo "il sito non risponde dopo il deploy"; exit 1
