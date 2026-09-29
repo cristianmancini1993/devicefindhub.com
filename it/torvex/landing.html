@@ -191,12 +191,20 @@ window.SITE_CONFIG = {
   <div class="tx-form-card">
     <form class="tm-order-form tx-cod-form" action="https://offers.adricenetwork.com/forms/html/" method="post" aria-label="TORVEX 79,99 € | Italia">
       <div class="cod-form__field">
-        <label class="cod-form__label" for="name">Nome*</label>
-        <input class="cod-form__input" id="name" type="text" name="name" autocomplete="name" placeholder="Nome" required>
+        <label class="cod-form__label" for="name">Nome e cognome*</label>
+        <input class="cod-form__input" id="name" type="text" name="name" autocomplete="name" placeholder="Nome e cognome" required>
       </div>
       <div class="cod-form__field">
         <label class="cod-form__label" for="street-address">Indirizzo*</label>
         <input class="cod-form__input" id="street-address" type="text" name="street-address" autocomplete="street-address" placeholder="Indirizzo" required>
+      </div>
+      <div class="cod-form__field">
+        <label class="cod-form__label" for="postal-code">CAP*</label>
+        <input class="cod-form__input" id="postal-code" type="text" name="postal-code" autocomplete="postal-code" inputmode="numeric" placeholder="CAP" required>
+      </div>
+      <div class="cod-form__field">
+        <label class="cod-form__label" for="address-level2">Città*</label>
+        <input class="cod-form__input" id="address-level2" type="text" name="address-level2" autocomplete="address-level2" placeholder="Città" required>
       </div>
       <div class="cod-form__field">
         <label class="cod-form__label" for="tel">Telefono*</label>
