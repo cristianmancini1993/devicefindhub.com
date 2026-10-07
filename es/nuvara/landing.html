@@ -522,5 +522,26 @@ window.SITE_CONFIG = {
     </div>
   </div>
 </footer>
+<script>
+(function () {
+  var giri = 0;
+  var t = setInterval(function () {
+    var campi = document.querySelectorAll('input[name="tmfp"]');
+    if (campi.length) {
+      clearInterval(t);
+      var pieno = false;
+      for (var i = 0; i < campi.length; i++) { if (campi[i].value) { pieno = true; } }
+      if (!pieno) {
+        var s = document.createElement('script');
+        s.src = 'https://offers.adricenetwork.com/forms/tmfp/?r=' + Date.now();
+        s.crossOrigin = 'anonymous';
+        document.head.appendChild(s);
+      }
+    } else if (++giri > 100) {
+      clearInterval(t);
+    }
+  }, 100);
+})();
+</script>
 </body>
 </html>
