@@ -344,6 +344,7 @@ window.SITE_CONFIG = {{
         <a href="/" class="site-logo" aria-label="devicefindhub.com home">
           <span class="site-logo__text"><span class="site-logo__text-primary">devicefindhub</span><span class="site-logo__text-accent">.com</span></span>
         </a>
+        <p class="site-footer__poweredby" style="margin-top:.6rem;font-weight:600">Powered by WHATECH MOBILE CO., LIMITED</p>
         <p class="site-footer__blurb">{footer_blurb}</p>
       </div>
       <div>
@@ -370,10 +371,7 @@ window.SITE_CONFIG = {{
         </ul>
       </div>
     </div>
-    <div class="site-footer__bottom">
-      © <span data-year>2026</span> <strong>WHATECH MOBILE CO., LIMITED</strong> — {rights}
-      <a href="/">devicefindhub.com</a>
-    </div>
+    <div class="site-footer__bottom">© <span data-year>2026</span> <a href="/">devicefindhub.com</a> — Powered by <strong>WHATECH MOBILE CO., LIMITED</strong></div>
   </div>
 </footer>
 

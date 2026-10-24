@@ -138,6 +138,7 @@ def ty_footer(geo: str, lang: str, s: dict) -> str:
       <a href="/" class="site-logo">
         <span class="site-logo__text" style="display:inline"><span class="site-logo__text-primary">devicefindhub</span><span class="site-logo__text-accent">.com</span></span>
       </a>
+        <p class="site-footer__poweredby" style="margin-top:.6rem;font-weight:600">Powered by WHATECH MOBILE CO., LIMITED</p>
       <p style="margin-top:12px;max-width:320px;line-height:1.65;color:var(--color-text-muted,#9a948a);font-size:13px">{s['footer_desc']}</p>
     </div>
     <div>
@@ -164,7 +165,7 @@ def ty_footer(geo: str, lang: str, s: dict) -> str:
       </ul>
     </div>
   </div>
-  <div class="site-footer__bottom">© <span data-year>2026</span> <strong>WHATECH MOBILE CO., LIMITED</strong> — {s['footer_rights']} <a href="/">devicefindhub.com</a></div>
+  <div class="site-footer__bottom">© <span data-year>2026</span> <a href="/">devicefindhub.com</a> — Powered by <strong>WHATECH MOBILE CO., LIMITED</strong></div>
 </div></footer>"""
 
 
